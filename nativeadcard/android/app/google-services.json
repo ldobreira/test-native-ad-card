@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "474984666391",
+    "project_id": "gamerpower-com",
+    "storage_bucket": "gamerpower-com.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474984666391:android:b32351a07c751973cdd352",
+        "android_client_info": {
+          "package_name": "com.example.nativeadcard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474984666391-f31e05htc206lkjlosrdp16cgi9bn2p6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD63v8pSNjDvH1-ELEeEVnXNvlUhkGaYdY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474984666391-f31e05htc206lkjlosrdp16cgi9bn2p6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
